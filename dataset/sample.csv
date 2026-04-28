@@ -1,4 +1,4 @@
-sqft,number of rooms,price
+sqft,number_of_rooms,price
 500,2,150
 750,3,200
 1000,4,250
